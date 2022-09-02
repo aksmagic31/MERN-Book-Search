@@ -14,7 +14,7 @@
 This is a full stack book search engine refactored with GraphQL queries 
 
 ## Link
-https://aksmagic31.github.io/portfolio-2/
+ TBD
 
 
 ## Usage
