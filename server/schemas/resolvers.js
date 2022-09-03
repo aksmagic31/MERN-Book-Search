@@ -13,9 +13,9 @@ const resolvers = {
       }
       throw new AuthenticationError("Please Log In");
     },
-    user: async(parent,args,context) => {
-        const userData = User.findOne({_id:  context.user._id}).populate('username');
-    }
+    // user: async(parent,args,context) => {
+    //     const userData = User.findOne({_id:  context.user._id}).populate('username');
+    // }
   },
   Mutation: {
     login: async (parent, { email, password }) => {
