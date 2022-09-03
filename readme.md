@@ -5,7 +5,7 @@
 - [Link](#Link)
 - [Technology](#technology)
 - [Usage](#usage)
-- [Usage](#usage)
+- [Questions](#Questions)
 - [License](#license)
 
 
@@ -14,17 +14,7 @@
 This is a full stack book search engine refactored with GraphQL queries 
 
 ## Link
- TBD
-
-
-## Usage
-
-1. download the repo
-
-2. npm install
-
-3. npm start
-
+http://wenyubookengine.herokuapp.com/
 
 
 ## Technology
@@ -35,7 +25,16 @@ This is a full stack book search engine refactored with GraphQL queries
 
 3. Mongoose
 
-4. 
+4. Apollo Servers
+
+## Usage
+
+1. download the repo
+
+2. npm install
+
+3. npm start
+
 ## Questions
 Please contact me with the methods below:
 - Github Username: aksmagic31
